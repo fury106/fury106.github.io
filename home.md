@@ -1,10 +1,7 @@
 ---
 permalink: /home.html
 ---
-title: Home
-subtitle: Homepage
-layout: page
-show_sidebar: false
+
 <html>
 <head>
 <title>Home - Fury_106</title>
