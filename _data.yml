@@ -1,0 +1,8 @@
+- label: Site content
+  items:
+    - name: Home
+      link: /home
+    - name: Over mij
+      link: /about
+    - name: Beat Saber
+      link: /beat_saber
