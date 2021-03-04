@@ -3,8 +3,11 @@ permalink: /home.html
 ---
 
 <html>
-<body>
+<head>
 <title>Home - Fury_106</title>
+</head>
+
+<body>
 <h1>Welkom!</h1>
 <h1>Deze website is nog in aanbouw!</h1>
 <p>Over mij</p>

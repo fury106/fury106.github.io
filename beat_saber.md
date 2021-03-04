@@ -2,8 +2,11 @@
 permalink: /beat_saber
 ---
 <html>
-<body>
+<head>
 <title>Beat Saber - Fury_106</title>
+</head>
+
+<body>
 <h1>Beat Saber</h1>
 <p>Op deze pagina kan je mijn Beat Saber creaties vinden.</p>
 <p></p>
