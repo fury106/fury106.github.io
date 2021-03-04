@@ -1,5 +1,6 @@
 ---
 permalink: /beat_saber
+title: Beat Saber - Fury_106
 ---
 <html>
 <head>
