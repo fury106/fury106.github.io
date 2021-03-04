@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+---
+permalink: /about.html
+---
+
 <html>
 <body>
 <h1>Over mij</h1>
