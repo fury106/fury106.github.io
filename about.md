@@ -1,6 +1,6 @@
 ---
 permalink: /about.html
-title: About - Fury_106
+title: Over mij
 ---
 
 <html>

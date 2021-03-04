@@ -1,0 +1,6 @@
+- name: Home
+  link: /home
+- name: Beat Saber
+  link: /beat_saber
+- name: Over mij
+  link: /about
