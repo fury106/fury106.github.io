@@ -1,7 +1,7 @@
 ---
 permalink: /home.html
 ---
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Home - Fury_106</title>
