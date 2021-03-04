@@ -2,6 +2,10 @@
   items:
     - name: Home
       link: /home
+      title: Home
+      subtitle: Homepage
+      layout: page
+      show_sidebar: false
     - name: Over mij
       link: /about
     - name: Beat Saber
