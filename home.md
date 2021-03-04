@@ -1,5 +1,6 @@
 ---
 permalink: /home.html
+title: Home - Fury_106
 ---
 
 <html>
