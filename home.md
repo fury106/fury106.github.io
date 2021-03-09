@@ -6,7 +6,7 @@ title: Home
 <html>
 <head>
 <title>Home - Fury_106</title>
-{ % include analytics.html % }
+{ % include https://github.com/fury106/fury106.github.io/tree/master/_includes/analytics.html % }
 </head>
 
 <body>
