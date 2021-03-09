@@ -6,12 +6,34 @@ subtitle: Op deze pagina kan je mijn Beat Saber creaties vinden.
 <html>
 <head>
 <title>Beat Saber - Fury_106</title>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 </head>
 
 <body>
 <h1>Bones on the Beach - Michael Hoenig</h1>
 <p>Dit is mijn eerste level dat ik zelf in Beat Saber gemaakt heb. Hieronder kan je de normale en moeilijke map vinden.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A2bG2l_Dzss" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--Cookies popup-->
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#252e39"
+    },
+    "button": {
+      "background": "#14a7d0"
+    }
+  },
+  "content": {
+    "message": "Deze website maakt gebruik van cookies en scripts (zoals Google Analytics) om voor een betere ervaring te zorgen. Door onze website te gebruiken ga je akkoord met het gebruik hiervan.",
+    "dismiss": "Doorgaan",
+    "link": "Privacy policy",
+    "href": "https://fury106.github.io/privacy"
+  }
+});
+</script>
 
 </body>
 </html>
