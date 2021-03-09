@@ -13,6 +13,6 @@ title: Home
 <h1>Deze website is nog in aanbouw!</h1>
 <p><a href="https://fury106.github.io/about">Over mij</a></p>
 <p><a href="https://fury106.github.io/beat_saber">Beat Saber</a></p>
-{% include cookie-consent.html %}
+{% include _includes/cookie-consent.html %}
 </body>
 </html>
