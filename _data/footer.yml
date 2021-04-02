@@ -1,6 +1,6 @@
 - name: Home
-  link: /home/
+  link: /home
 - name: Over mij
-  link: /about/
+  link: /about
 - name: Privacy
-  link: /privacy/
+  link: /privacy
