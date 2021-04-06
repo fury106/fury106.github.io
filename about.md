@@ -22,8 +22,7 @@ subtitle: Over Fury_106
 <body>
 <p>Ik ben een pretparkfan die houdt van Revolution en Oswald.</p>
 <p>Ik speel ook vaak Beat Saber en maak af en toe ook eigen maps, dus neem zeker eens een kijkje op <a href="https://fury106.github.io/beat_saber">deze</a> pagina.</p>
-<p> </p>
-<p>Vergeet zeker ook geen kijkje te nemen op mijn soiale media:</p>
+<p>Vergeet zeker ook geen kijkje te nemen op mijn sociale media:</p>
 <p><a target="_blank" href="https://www.youtube.com/channel/UC188cOvp6duGUTesd5ynfnw">YouTube</a></p>
 
 <!--Cookies popup-->
