@@ -19,6 +19,18 @@ title: Over mij
 </head>
 
 <body>
+
+<section class="hero is-small is-primary">
+  <div class="hero-body">
+    <p class="title">
+      Small hero
+    </p>
+    <p class="subtitle">
+      Small subtitle
+    </p>
+  </div>
+</section>
+
 <p>Ik ben een pretparkfan die houdt van Revolution en Oswald.</p>
 <p>Ik speel ook vaak Beat Saber en maak af en toe ook eigen maps, dus neem zeker eens een kijkje op <a href="https://fury106.github.io/beat_saber">deze</a> pagina.</p>
 
