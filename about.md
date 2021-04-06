@@ -16,9 +16,6 @@ title: Over mij
 
   gtag('config', 'G-ZJGHDFE3XH');
 </script>
-</head>
-
-<body>
 
 <section class="hero is-small is-primary">
   <div class="hero-body">
@@ -31,6 +28,9 @@ title: Over mij
   </div>
 </section>
 
+</head>
+
+<body>
 <p>Ik ben een pretparkfan die houdt van Revolution en Oswald.</p>
 <p>Ik speel ook vaak Beat Saber en maak af en toe ook eigen maps, dus neem zeker eens een kijkje op <a href="https://fury106.github.io/beat_saber">deze</a> pagina.</p>
 
