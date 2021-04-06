@@ -1,6 +1,7 @@
 ---
 permalink: /home.html
 title: Home
+hero_img: /img/hero_banner.png
 ---
 
 <html>
