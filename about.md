@@ -20,10 +20,10 @@ title: Over mij
 <section class="hero is-small is-primary">
   <div class="hero-body">
     <p class="title">
-      Small hero
+      test 1
     </p>
     <p class="subtitle">
-      Small subtitle
+      test 2
     </p>
   </div>
 </section>
