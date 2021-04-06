@@ -1,6 +1,7 @@
 ---
 permalink: /about.html
 title: Over mij
+hero_height: is-small
 ---
 
 <html>
@@ -16,18 +17,6 @@ title: Over mij
 
   gtag('config', 'G-ZJGHDFE3XH');
 </script>
-
-<section class="hero is-small is-primary">
-  <div class="hero-body">
-    <p class="title">
-      test 1
-    </p>
-    <p class="subtitle">
-      test 2
-    </p>
-  </div>
-</section>
-
 </head>
 
 <body>
