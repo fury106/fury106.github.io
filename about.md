@@ -9,7 +9,7 @@ subtitle: Over Fury_106
 <title>Over mij - Fury_106</title>
 <style>
     foto {
-        padding-left: 100px;
+        padding-right: 50px;
     }
 </style>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
