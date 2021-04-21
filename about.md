@@ -21,7 +21,7 @@ subtitle: Over Fury_106
 
 <body>
 <div>
-<p style="float: left;"><img src="https://fury106.github.io/img/logo.png" height="300px" width="200px" border="1px"></p>
+<p style="float: left;"><img src="https://fury106.github.io/img/logo.png" height="300px" width="200px" padding: 10px;></p>
 <!--<figure class="image is-128x128">
     <img src="https://fury106.github.io/img/logo.png">
 </figure>-->
