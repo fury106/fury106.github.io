@@ -20,7 +20,7 @@ subtitle: Over Fury_106
 </head>
 
 <body>
-<figure class="image is-square">
+<figure class="image is-128x128">
     <img src="https://fury106.github.io/img/logo.png">
 </figure>
 <p>Ik ben een pretparkfan die houdt van Revolution en Oswald.</p>
