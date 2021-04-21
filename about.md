@@ -7,6 +7,17 @@ subtitle: Over Fury_106
 <html>
 <head>
 <title>Over mij - Fury_106</title>
+<style>
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+    }
+
+    .text {
+        padding-left: 20px;
+    }
+</style>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZJGHDFE3XH"></script>
@@ -21,7 +32,7 @@ subtitle: Over Fury_106
 
 <body>
 <div>
-<p style="float: left;"><img src="https://fury106.github.io/img/logo.png" height="300px" width="200px" padding: 10px;></p>
+<p style="float: left;"><img src="https://fury106.github.io/img/logo.png" height="300px" width="200px"></p>
 <!--<figure class="image is-128x128">
     <img src="https://fury106.github.io/img/logo.png">
 </figure>-->
