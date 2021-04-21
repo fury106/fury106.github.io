@@ -11,6 +11,15 @@ subtitle: Over Fury_106
     foto {
         padding-right: 50px;
     }
+
+    .foto-logo img {
+        float: left;
+        margin: 0 16px 16px 0;
+    }
+
+    .foto-log p{
+        overflow: hidden;
+    }
 </style>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -25,15 +34,15 @@ subtitle: Over Fury_106
 </head>
 
 <body>
-<foto>
-<p style="float: left;"><img src="https://fury106.github.io/img/logo.png" height="300px" width="300px" align="top"></p>
+<label class="foto-logo">
+<img src="https://fury106.github.io/img/logo.png" height="300px" width="300px">
 <!--<figure class="image is-128x128">
     <img src="https://fury106.github.io/img/logo.png">
 </figure>-->
 <p>Ik ben een pretparkfan die houdt van Revolution en Oswald.</p>
 <p>Ik speel ook vaak Beat Saber en maak af en toe ook eigen maps, dus neem zeker eens een kijkje op <a href="https://fury106.github.io/beat_saber">deze</a> pagina.</p>
 <p>Vergeet zeker ook geen kijkje te nemen op mijn <a href="https://linktr.ee/Fury_106" target="_blank">sociale media!</a></p>
-</foto>
+</label>
 <!--<p><a target="_blank" href="https://www.youtube.com/channel/UC188cOvp6duGUTesd5ynfnw">YouTube</a></p>-->
 
 <!--Cookies popup-->
