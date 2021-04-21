@@ -8,19 +8,7 @@ subtitle: Over Fury_106
 <head>
 <title>Over mij - Fury_106</title>
 <style>
-    h2{
-    overflow: auto;    
-    }
-
-    h2 span{
-        float: left;
-        margin-top: 10px;
-        margin-left: 10px;
-    }
-
-    h2 img{
-        float: left;        
-    }
+    
 </style>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -35,15 +23,15 @@ subtitle: Over Fury_106
 </head>
 
 <body>
-<h2>
-<p style="float: left;"><img src="https://fury106.github.io/img/logo.png" height="300px" width="300px"></p>
+<div>
+<p style="margin-right:5px"><img src="https://fury106.github.io/img/logo.png" height="300px" width="300px"></p>
 <!--<figure class="image is-128x128">
     <img src="https://fury106.github.io/img/logo.png">
 </figure>-->
-<span>Ik ben een pretparkfan die houdt van Revolution en Oswald.</span>
-<span>Ik speel ook vaak Beat Saber en maak af en toe ook eigen maps, dus neem zeker eens een kijkje op <a href="https://fury106.github.io/beat_saber">deze</a> pagina.</span>
-<span>Vergeet zeker ook geen kijkje te nemen op mijn <a href="https://linktr.ee/Fury_106" target="_blank">sociale media!</a></span>
-</h2>
+<p>Ik ben een pretparkfan die houdt van Revolution en Oswald.</p>
+<p>Ik speel ook vaak Beat Saber en maak af en toe ook eigen maps, dus neem zeker eens een kijkje op <a href="https://fury106.github.io/beat_saber">deze</a> pagina.</p>
+<p>Vergeet zeker ook geen kijkje te nemen op mijn <a href="https://linktr.ee/Fury_106" target="_blank">sociale media!</a></p>
+</div>
 <!--<p><a target="_blank" href="https://www.youtube.com/channel/UC188cOvp6duGUTesd5ynfnw">YouTube</a></p>-->
 
 <!--Cookies popup-->
