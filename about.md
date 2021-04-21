@@ -8,7 +8,9 @@ subtitle: Over Fury_106
 <head>
 <title>Over mij - Fury_106</title>
 <style>
-    
+    p {
+        padding: 10px;
+    }
 </style>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
