@@ -1,7 +1,7 @@
 ---
 permalink: /home.html
 title: Home
-hero_img: /img/hero_banner.png
+hero_img: https://fury106.github.io/img/hero_banner.png
 ---
 
 <html>
