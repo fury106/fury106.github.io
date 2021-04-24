@@ -14,8 +14,7 @@ subtitle: Over Fury_106
 
     .foto-logo img {
         float: left;
-        <!--margin: 0 25px 25px 0;-->
-        margin-left: 25px;
+        margin: 0 25px 25px 0;
         width: 50%;
         max-width: 300px;
         height: auto;
@@ -39,7 +38,7 @@ subtitle: Over Fury_106
 
 <body>
 <label class="foto-logo">
-<img src="https://fury106.github.io/img/logo.png">
+<img src="https://fury106.github.io/img/logo.png" align="top">
 <!--<figure class="image is-128x128">
     <img src="https://fury106.github.io/img/logo.png">
 </figure>-->
