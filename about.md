@@ -38,7 +38,7 @@ subtitle: Over Fury_106
 
 <body>
 <label class="foto-logo">
-<img src="https://fury106.github.io/img/logo.png" align="top">
+<img src="https://fury106.github.io/img/logo.png" align="left">
 <!--<figure class="image is-128x128">
     <img src="https://fury106.github.io/img/logo.png">
 </figure>-->
