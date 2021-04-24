@@ -3,8 +3,9 @@
     "",
     "\\assets",
     "\\assets\\css",
+    "\\_data",
     "\\_includes"
   ],
-  "SelectedNode": "\\_includes",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
