@@ -14,7 +14,7 @@ subtitle: Over Fury_106
 
     .foto-logo img {
         float: left;
-        margin: 0 25px 25px 0;
+        margin: 0 25px 25px 25px;
         width: 50%;
         max-width: 300px;
         height: auto;
