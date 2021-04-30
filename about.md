@@ -42,7 +42,7 @@ subtitle: Over Fury_106
 <!--<figure class="image is-128x128">
     <img src="https://fury106.github.io/img/logo.png">
 </figure>-->
-<p>Ik ben een pretparkfan die houdt van Revolution en Oswald. Ik bezoek al heel mijn leven pretparken, waarvan Bobbejaanland mijn thuispark is. Fury is mijn favoriete achtbaan in Bobbejaanland, dus vandaar de naam 'Fury_106' voor deze website.</p>
+<p>Ik ben een pretparkfan die houdt van Revolution en Oswald. Ik bezoek al heel mijn leven pretparken, waarvan Bobbejaanland mijn thuispark is. Fury is mijn favoriete achtbaan in Bobbejaanland, dus vandaar de naam 'Fury_106' voor deze website. Op dit moment heb ik al een 180 achtbanen gedaan, waarvan Zadra in Energylandia op dit moment mijn favoriet is.</p>
 <p>Naast Fury ben ik ook fan van de unieke en iconische achtbaan Revolution, die tevens in Bobbejaanland te vinden is. Revolution is de enige nog werkende 'Illusion Coaster' ter wereld en van alle werkende achtbanen in de wereld heeft deze de langste trein!</p>
 <p>Je hebt je misschien al afgevraagd wie Oswald is. Wel, in de film die je tijdens een ritje in de Revolution te zien krijgt, verschijnt op een gegeven moment een maan met een gezicht. Deze maan heeft van enkele Revolutionfans de naam 'Oswald' gekregen.</p>
 <p>Naast pretparken bezoeken speel ik ook vaak Beat Saber en maak af en toe ook eigen maps, dus neem zeker eens een kijkje op <a href="https://fury106.github.io/beat_saber">deze</a> pagina.</p>
