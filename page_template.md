@@ -1,6 +1,7 @@
 ---
 permalink: /titel.html
 title: Titel
+sitemap: false
 ---
 
 <html>
