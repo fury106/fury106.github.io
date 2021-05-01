@@ -1,6 +1,7 @@
 ---
 permalink: /privacy.html
 title: Privacy
+sitemap: false
 ---
 
 <html>
