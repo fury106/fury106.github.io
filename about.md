@@ -59,6 +59,7 @@ subtitle: Over Fury_106
 <h1>Contacteer mij</h1>
 <p>Gelieve onderstaand formulier in te vullen indien je mij wil contacteren. Ik probeer om steeds zo snel mogelijk te antwoorden.</p>
 
+<!--
 <div class="fcf-body">
         <div class="fcf-form-wrap">
             <div id="fcf-form">
@@ -115,6 +116,9 @@ subtitle: Over Fury_106
     <script src="fcf-assets/js/fcf.just-validate.min.js"></script>
     <script src="fcf-assets/js/fcf.form.js"></script>
     <!-- the lines above are needed -->
+    -->
+
+    <div id="wufoo-zqnatj40fm54iz"> Fill out my <a href="https://fury106.wufoo.com/forms/zqnatj40fm54iz">online form</a>. </div> <script type="text/javascript"> var zqnatj40fm54iz; (function(d, t) { var s = d.createElement(t), options = { 'userName':'fury106', 'formHash':'zqnatj40fm54iz', 'autoResize':true, 'height':'440', 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { zqnatj40fm54iz = new WufooForm(); zqnatj40fm54iz.initialize(options); zqnatj40fm54iz.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); </script>
 
 
 <!--Cookies popup-->
