@@ -23,11 +23,7 @@ subtitle: Over Fury_106
     .foto-logo p{
         <!--overflow: hidden;-->
     }
-</style>
-
-    <link href="fcf-assets/css/fcf.default.css" rel="stylesheet">
-    <link href="fcf-assets/css/fcf.default-custom.css" rel="stylesheet">
-    
+</style> 
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -59,67 +55,10 @@ subtitle: Over Fury_106
 <h1>Contacteer mij</h1>
 <p>Gelieve onderstaand formulier in te vullen indien je mij wil contacteren. Ik probeer om steeds zo snel mogelijk te antwoorden.</p>
 
-<!--
-<div class="fcf-body">
-        <div class="fcf-form-wrap">
-            <div id="fcf-form">
-                <form class="fcf-form-class" method="post" action="fcf-assets/fcf.process.php">
-
-                    <div class="fcf-field">
-                        <label for="Name" class="fcf-label has-text-weight-normal">Your name</label>
-                        <div class="fcf-control">
-                            <input type="text" name="Name" id="Name" class="fcf-input is-full-width" maxlength="60"
-                                data-validate-field="Name">
-                        </div>
-                    </div>
-                    <div class="fcf-field">
-                        <label for="Email" class="fcf-label has-text-weight-normal">Your email address</label>
-                        <div class="fcf-control">
-                            <input type="email" name="Email" id="Email" class="fcf-input is-full-width" maxlength="100"
-                                data-validate-field="Email">
-                        </div>
-                    </div>
-                    <div class="fcf-field">
-                        <label for="Phone" class="fcf-label has-text-weight-normal">Your phone number (optional)</label>
-                        <div class="fcf-control">
-                            <input type="text" name="Phone" id="Phone" class="fcf-input is-full-width" maxlength="30"
-                                data-validate-field="Phone">
-                        </div>
-                    </div>
-                    <div class="fcf-field">
-                        <label for="Message" class="fcf-label has-text-weight-normal">Your message</label>
-                        <div class="fcf-control">
-                            <textarea name="Message" id="Message" class="fcf-textarea" maxlength="3000" rows="5"
-                                data-validate-field="Message"></textarea>
-                        </div>
-                    </div>
-                    <div id="fcf-status" class="fcf-status"></div>
-                    <div class="fcf-field">
-                        <div class="fcf-buttons">
-                            <button id="fcf-button" type="submit" class="fcf-button is-link is-medium is-fullwidth">Send
-                                Message</button>
-                        </div>
-                    </div>
-                    <!-- You MUST retain the attribution below -->
-                    <div class="fcf-attribution">Contact Form by <a href="https://www.freecontactform.com/"
-                            class="fcf-attribution-link">FreeContactForm</a></div>
-                </form>
-            </div>
-            <div id="fcf-thank-you" style="display:none">
-                <!-- Thank you message goes below -->
-                <p>Thanks for contacting us, we will get back in touch with you soon.</p>
-                <!-- Thank you message goes above -->
-            </div>
-        </div>
-    </div>
-    <script src="fcf-assets/js/lang/fcf.en.js"></script>
-    <script src="fcf-assets/js/fcf.just-validate.min.js"></script>
-    <script src="fcf-assets/js/fcf.form.js"></script>
-    <!-- the lines above are needed -->
-    -->
-
-    <div id="wufoo-zqnatj40fm54iz"> Fill out my <a href="https://fury106.wufoo.com/forms/zqnatj40fm54iz">online form</a>. </div> <script type="text/javascript"> var zqnatj40fm54iz; (function(d, t) { var s = d.createElement(t), options = { 'userName':'fury106', 'formHash':'zqnatj40fm54iz', 'autoResize':true, 'height':'440', 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { zqnatj40fm54iz = new WufooForm(); zqnatj40fm54iz.initialize(options); zqnatj40fm54iz.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); </script>
-
+<!--contactformulier-->
+<div id="wufoo-zqnatj40fm54iz"> Fill out my <a href="https://fury106.wufoo.com/forms/zqnatj40fm54iz">online form</a>. </div>
+<script type="text/javascript"> var zqnatj40fm54iz; (function(d, t) { var s = d.createElement(t), options = { 'userName':'fury106', 'formHash':'zqnatj40fm54iz', 'autoResize':true, 'height':'440', 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { zqnatj40fm54iz = new WufooForm(); zqnatj40fm54iz.initialize(options); zqnatj40fm54iz.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); </script>
+<p>Gelieve een <a href="mailto:fury106@outlook.com">email</a> te sturen indien het contactformulier niet werkt.
 
 <!--Cookies popup-->
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
