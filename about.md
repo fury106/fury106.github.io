@@ -37,6 +37,7 @@ subtitle: Over Fury_106
 </head>
 
 <body>
+<h1>Over mij</h1>
 <label class="foto-logo">
 <img src="https://fury106.github.io/img/logo.png" align="left">
 <!--<figure class="image is-128x128">
@@ -49,6 +50,49 @@ subtitle: Over Fury_106
 <p>Vergeet zeker ook niet om een kijkje te nemen op mijn <a href="https://linktr.ee/Fury_106" target="_blank">sociale media</a> en mij te volgen of jezelf te abonneren!</p>
 </label>
 <!--<p><a target="_blank" href="https://www.youtube.com/channel/UC188cOvp6duGUTesd5ynfnw">YouTube</a></p>-->
+
+<h1>Contacteer mij</h1>
+<p>Gelieve onderstaand formulier in te vullen indien je mij wil contacteren. Ik probeer om steeds zo snel mogelijk te antwoorden.</p>
+
+<form action="mailto:fury106@outlook.com" method="post" enctype="text/plain">
+<div class="field">
+  <label class="label">Voor- en achternaam</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Naam">
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Email</label>
+  <div class="control has-icons-left has-icons-right">
+    <input class="input is-danger" type="email" placeholder="Email">
+    <span class="icon is-small is-left">
+      <i class="fas fa-envelope"></i>
+    </span>
+    <span class="icon is-small is-right">
+      <i class="fas fa-exclamation-triangle"></i>
+    </span>
+  </div>
+  <p class="help is-danger">Ongeldige invoer</p>
+</div>
+
+<div class="field">
+  <label class="label">Uw bericht</label>
+  <div class="control">
+    <textarea class="textarea" placeholder="Bericht"></textarea>
+  </div>
+</div>
+
+<div class="field is-grouped">
+  <div class="control">
+    <button type="submit" class="button is-link">Verstuur</button>
+  </div>
+  <div class="control">
+    <button type="reset" class="button is-link is-light">Annuleer</button>
+  </div>
+</div>
+
+</form>
 
 <!--Cookies popup-->
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
