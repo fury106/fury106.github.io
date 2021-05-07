@@ -19,6 +19,7 @@ subtitle: Op deze pagina kan je mijn Beat Saber creaties vinden.
 </head>
 
 <body>
+<p>Af en toe neem ik ook een video op van een level dat ik zelf niet gemaakt heb. Je kan al deze video's vinden in <a href="https://www.youtube.com/playlist?list=PL8_LfrnB_yUKNBEhB-qUqdGXaYxmSZQP0" target="_blank">deze afspeellijst</a>.</p>
 <h1>Bones on the Beach - Michael Hoenig</h1>
 <p>Dit is mijn eerste level dat ik zelf in Beat Saber gemaakt heb. Hieronder kan je de normale en moeilijke map vinden.</p>
 <p>Moeilijkheidsgraad 'normal' (zonder lichten):</p>
