@@ -58,7 +58,7 @@ subtitle: Over Fury_106
 <!--contactformulier-->
 <div id="wufoo-zqnatj40fm54iz"> Fill out my <a href="https://fury106.wufoo.com/forms/zqnatj40fm54iz">online form</a>. </div>
 <script type="text/javascript"> var zqnatj40fm54iz; (function(d, t) { var s = d.createElement(t), options = { 'userName':'fury106', 'formHash':'zqnatj40fm54iz', 'autoResize':true, 'height':'440', 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { zqnatj40fm54iz = new WufooForm(); zqnatj40fm54iz.initialize(options); zqnatj40fm54iz.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); </script>
-<p>Gelieve een <a href="mailto:fury106@outlook.com">email</a> te sturen indien het contactformulier niet werkt.
+<p>Gelieve een <a href="mailto:fury106@outlook.com">email</a> te sturen indien het contactformulier niet werkt.</p>
 
 <!--Cookies popup-->
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
