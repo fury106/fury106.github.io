@@ -24,7 +24,7 @@ comments: false
 </head>
 
 <body>
-## Walibi Belgium heeft onalngs haar nieuwste aanwist geopend voor het publiek: de megacoaster Kondaa. Wij hebben hem ondertussen uitvoerig kunnen testen. Onze bevindingen lees je in deze blog.
+<b>Walibi Belgium heeft onlangs haar nieuwste aanwist geopend voor het publiek: de megacoaster Kondaa. Wij hebben hem ondertussen uitvoerig kunnen testen. Onze bevindingen lees je in deze blog.</b>
 
 <!--Cookies popup-->
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
