@@ -24,3 +24,12 @@ defaults:
       is_post: true
       layout: post
       permalink: /blog/:categories/:title/
+      author: "Fury_106"
+      show_sidebar: true
+  - 
+    scope:
+  
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
