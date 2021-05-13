@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Uitgetest: Kondaa in Walibi Belgium"
-summary: |-
-    Wij hebben de nieuwe achtbaan van Walibi Belgium onlangs kunnen uittesten. In deze blog kan je al onze bevindingen vinden.
+summary: "Wij hebben de nieuwe achtbaan van Walibi Belgium onlangs kunnen uittesten. In deze blog kan je al onze bevindingen vinden."
 hide_share_buttons: true
+published:true
+canonical_url: https://fury106.github.io/blog/uitgetest-kondaa-walibi-belgium
 ---
 
 <html>
