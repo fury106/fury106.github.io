@@ -4,6 +4,7 @@ google_analytics: UA-191715723-1
 footer_menu: footer
 favicon: img/favicon.png
 url: "https://fury106.github.io"
+timezone: 'Europe-Andorra'
 
 paginate: 5
 paginate_path: "/blog/page:num"
