@@ -5,6 +5,7 @@ summary: "Wij hebben de nieuwe achtbaan van Walibi Belgium onlangs kunnen uittes
 hide_share_buttons: true
 published: true
 canonical_url: https://fury106.github.io/blog/uitgetest-kondaa-walibi-belgium
+comments: false
 ---
 
 <html>
