@@ -23,13 +23,13 @@ defaults:
     values:
       is_post: true
       layout: post
-      permalink: /blog/:categories/:title/
+      permalink: /blog/:title/
       author: "Fury_106"
       show_sidebar: true
   - 
     scope:
   
-      path: blog
+      path: _posts
       type: "pages"
     values:
       show_sidebar: true
