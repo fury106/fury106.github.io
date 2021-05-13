@@ -29,7 +29,7 @@ defaults:
   - 
     scope:
   
-      path: ""
+      path: blog
       type: "pages"
     values:
       show_sidebar: true
