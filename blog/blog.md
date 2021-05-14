@@ -1,5 +1,5 @@
 ﻿---
-layout: blog
+layout: archive
 title: Blog
 subtitle: Hier kan je al mijn blogs terugvinden.
 permalink: /blog
