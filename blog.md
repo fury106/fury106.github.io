@@ -1,16 +1,13 @@
----
-layout: post
-title: "Uitgetest: Kondaa in Walibi Belgium"
-date: 2021-05-12 19:05:00 +0200
-summary: "Wij hebben de nieuwe achtbaan van Walibi Belgium onlangs kunnen uittesten. In deze blog kan je al onze bevindingen vinden."
-hide_share_buttons: true
-published: false
-comments: false
-permalink: /blog/uitgetest-kondaa-in-walibi-belgium
+﻿---
+layout: blog
+title: Blog
+subtitle: Hier kan je al mijn blogs terugvinden.
+permalink: /blog1
 ---
 
 <html>
 <head>
+<title>Blog | Fury_106</title>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZJGHDFE3XH"></script>
@@ -24,7 +21,14 @@ permalink: /blog/uitgetest-kondaa-in-walibi-belgium
 </head>
 
 <body>
-<b>Walibi Belgium heeft onlangs haar nieuwste aanwist geopend voor het publiek: de megacoaster Kondaa. Wij hebben hem ondertussen uitvoerig kunnen testen. Onze bevindingen lees je in deze blog.</b>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 <!--Cookies popup-->
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
@@ -46,5 +50,8 @@ window.cookieconsent.initialise({
   }
 });
 </script>
+
+<i>Wegens technische problemen met de website verschijnen berichten tijdelijk enkel als links i.p.v. als volledige blokken. Wij proberen het probleem zo snel mogeljk op te lossen. Wij danken u voor uw begrip.</i>
+
 </body>
 </html>
