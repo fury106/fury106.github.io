@@ -3,9 +3,11 @@
     "",
     "\\assets",
     "\\assets\\css",
+    "\\blog",
     "\\_data",
-    "\\_includes"
+    "\\_includes",
+    "\\_posts"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\blog\\index.md",
   "PreviewInSolutionExplorer": false
 }
