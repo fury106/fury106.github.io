@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Uitgetest Kondaa in Walibi Belgium"
+title: "Uitgetest: Kondaa in Walibi Belgium"
 date: 2021-05-12 19:05:00 +0200
 summary: "Wij hebben de nieuwe achtbaan van Walibi Belgium onlangs kunnen uittesten. In deze blog kan je al onze bevindingen vinden."
 hide_share_buttons: true
-published: true
+published: false
 comments: false
 permalink: /blog/uitgetest-kondaa-in-walibi-belgium
 ---
