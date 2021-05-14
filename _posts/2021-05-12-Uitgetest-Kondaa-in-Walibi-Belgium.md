@@ -6,6 +6,7 @@ summary: "Wij hebben de nieuwe achtbaan van Walibi Belgium onlangs kunnen uittes
 hide_share_buttons: true
 published: true
 comments: false
+permalink: /blog/uitgetest-kondaa-in-walibi-belgium
 ---
 
 <html>
