@@ -1,5 +1,5 @@
 ﻿---
-layout: archive
+layout: blog
 title: Blog
 subtitle: Hier kan je al mijn blogs terugvinden.
 permalink: /blog
@@ -22,6 +22,13 @@ permalink: /blog
 
 <body>
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 <!--Cookies popup-->
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
