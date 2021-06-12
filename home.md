@@ -2,6 +2,8 @@
 permalink: /home.html
 title: Home0
 hero_image: https://fury106.github.io/img/hero_banner.png
+published: false
+sitemap: false
 ---
 
 <html>
