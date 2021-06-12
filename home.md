@@ -1,6 +1,6 @@
 ---
 permalink: /home.html
-title: Home
+title: Home0
 hero_image: https://fury106.github.io/img/hero_banner.png
 ---
 
