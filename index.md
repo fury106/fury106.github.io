@@ -7,6 +7,7 @@ hero_image: https://fury106.github.io/img/hero_banner.png
 <html>
 <head>
 <title>Home - Fury_106</title>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 </head>
 <body>
 <!--<h1>Hello World!</h1>
