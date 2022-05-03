@@ -25,7 +25,6 @@ sitemap: false
 <h1>Welkom!</h1>
 <h1>Deze website is nog in aanbouw!</h1>
 <p><a href="https://fury106.github.io/about">Over mij</a></p>
-<p><a href="https://fury106.github.io/beat_saber">Beat Saber</a></p>
 
 <!--Cookies popup-->
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>

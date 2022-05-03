@@ -18,7 +18,6 @@ hero_image: https://fury106.github.io/img/hero_banner.png
 <h1>Welkom!</h1>
 <h1>Deze website is nog in aanbouw!</h1>
 <p><a href="https://fury106.github.io/about">Over mij</a></p>
-<p><a href="https://fury106.github.io/beat_saber">Beat Saber</a></p>
 
 
 <!--Instagram plugin-->
