@@ -1,23 +1,32 @@
 ﻿---
-permalink: /index.html
 title: Home
+subtitle: Welkom op de website van Fury_106!
 hero_image: https://fury106.github.io/img/hero_banner.png
+callouts: home_callouts
 ---
 
 <html>
 <head>
-<title>Home - Fury_106</title>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MTN7ZFS');</script>
+<!-- End Google Tag Manager -->
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 </head>
 <body>
-<!--<h1>Hello World!</h1>
-<p>I'm hosted with GitHub Pages.</p>
-<p> Je wordt automatisch doorvervezen naar de homepage. Klik <a href="https://fury106.github.io/home">hier</a> als dit niet gebeurt.</p>-->
-<!--<meta http-equiv="refresh" content="0; URL=https://fury106.github.io/home" />-->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTN7ZFS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 
 <h1>Welkom!</h1>
-<h1>Deze website is nog in aanbouw!</h1>
-<p><a href="https://fury106.github.io/about">Over mij</a></p>
+<h1>Deze website is nog in aanbouw, maar neem alvast eens kijkje op de pagina's die reeds online staan. Kom later ook nog eens terug, want er zal nog veel meer content online komen!</h1>
+<!--<p><a href="https://fury106.github.io/about">Over mij</a></p>-->
 
 
 <!--Instagram plugin-->
