@@ -1,6 +1,6 @@
 ---
 permalink: /belgie.html
-title: België
+title: Belgie
 sitemap: true
 published: true
 ---
