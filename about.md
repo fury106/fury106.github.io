@@ -44,7 +44,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     }
 </style> 
 
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 </head>
 
 <body>
@@ -75,25 +74,5 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script type="text/javascript"> var zqnatj40fm54iz; (function(d, t) { var s = d.createElement(t), options = { 'userName':'fury106', 'formHash':'zqnatj40fm54iz', 'autoResize':true, 'height':'440', 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { zqnatj40fm54iz = new WufooForm(); zqnatj40fm54iz.initialize(options); zqnatj40fm54iz.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); </script>
 <p>Gelieve een <a href="mailto:fury106@outlook.com">email</a> te sturen indien het contactformulier niet werkt.</p>
 
-<!--Cookies popup-->
-<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
-<script>
-window.cookieconsent.initialise({
-  "palette": {
-    "popup": {
-      "background": "#252e39"
-    },
-    "button": {
-      "background": "#14a7d0"
-    }
-  },
-  "content": {
-    "message": "Deze website maakt gebruik van cookies en scripts (zoals Google Analytics) om voor een betere ervaring te zorgen. Door onze website te gebruiken ga je akkoord met het gebruik hiervan.",
-    "dismiss": "Doorgaan",
-    "link": "Meer info",
-    "href": "https://fury106.github.io/privacy"
-  }
-});
-</script>
 </body>
 </html>
