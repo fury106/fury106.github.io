@@ -1,5 +1,5 @@
 - name: Pretparken
-  link: /pretparken
+  link: /#
   dropdown:
 	- name: Belgie
 	  link: /pretparken/belgie
