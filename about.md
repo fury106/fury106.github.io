@@ -6,6 +6,25 @@ subtitle: Over Fury_106
 
 <html>
 <head>
+<!-- Cookie Consent by https://www.FreePrivacyPolicy.com -->
+<script type="text/javascript" src="//www.freeprivacypolicy.com/public/cookie-consent/4.0.0/cookie-consent.js" charset="UTF-8"></script>
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({"notice_banner_type":"headline","consent_type":"express","palette":"dark","language":"nl","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false,"website_name":"Fury_106"});
+});
+</script>
+
+<!-- Google Tag Manager -->
+<script type="text/plain" cookie-consent="tracking">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MTN7ZFS');</script>
+<!-- end of Google Tag Manager-->
+
+<noscript>Cookie Consent by <a href="https://www.freeprivacypolicy.com/" rel="nofollow noopener">Free Privacy Policy Generator website</a></noscript>
+<!-- End Cookie Consent -->
+
 <title>Over mij - Fury_106</title>
 <style>
     foto {
@@ -26,18 +45,14 @@ subtitle: Over Fury_106
 </style> 
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZJGHDFE3XH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-ZJGHDFE3XH');
-</script>
 </head>
 
 <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTN7ZFS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 <h1>Over mij</h1>
 <label class="foto-logo">
 <img src="https://fury106.github.io/img/logo.png" align="left">
@@ -47,7 +62,7 @@ subtitle: Over Fury_106
 <p>Ik ben een pretparkfan die houdt van Revolution en Oswald. Ik bezoek al heel mijn leven pretparken, waarvan Bobbejaanland mijn thuispark is. Fury is mijn favoriete achtbaan in Bobbejaanland, dus vandaar de naam 'Fury_106' voor deze website. Op dit moment heb ik al een 180 achtbanen gedaan, waarvan Zadra in Energylandia op dit moment mijn favoriet is.</p>
 <p>Naast Fury ben ik ook fan van de unieke en iconische achtbaan Revolution, die tevens in Bobbejaanland te vinden is. Revolution is de enige nog werkende 'Illusion Coaster' ter wereld en van alle werkende achtbanen in de wereld heeft deze de langste trein!</p>
 <p>Je hebt je misschien al afgevraagd wie Oswald is. Wel, in de film die je tijdens een ritje in de Revolution te zien krijgt, verschijnt op een gegeven moment een maan met een gezicht. Deze maan heeft van enkele Revolutionfans de naam 'Oswald' gekregen.</p>
-<p>Naast pretparken bezoeken speel ik ook vaak Beat Saber en maak af en toe ook eigen maps, dus neem zeker eens een kijkje op <a href="https://fury106.github.io/beat_saber">deze</a> pagina.</p>
+<!--<p>Naast pretparken bezoeken speel ik ook vaak Beat Saber en maak af en toe ook eigen maps, dus neem zeker eens een kijkje op <a href="https://fury106.github.io/beat_saber">deze</a> pagina.</p>-->
 <p>Vergeet zeker ook niet om een kijkje te nemen op mijn <a href="https://linktr.ee/Fury_106" target="_blank">sociale media</a> en mij te volgen of jezelf te abonneren!</p>
 </label>
 <!--<p><a target="_blank" href="https://www.youtube.com/channel/UC188cOvp6duGUTesd5ynfnw">YouTube</a></p>-->

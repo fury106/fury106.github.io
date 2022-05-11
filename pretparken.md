@@ -1,8 +1,8 @@
 ---
-permalink: /titel.html
-title: Titel
-sitemap: false
-published: false
+permalink: /pretparken.html
+title: Pretparken
+sitemap: true
+published: true
 ---
 
 <html>
@@ -25,13 +25,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <noscript>Cookie Consent by <a href="https://www.freeprivacypolicy.com/" rel="nofollow noopener">Free Privacy Policy Generator website</a></noscript>
 <!-- End Cookie Consent -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZJGHDFE3XH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZJGHDFE3XH');
+</script>
 </head>
 
 <body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTN7ZFS"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+
+
+<p>Op deze pagina kan je binnenkort een overizcht vinden van alle pretparken waar ik al geweest ben en waar ik content van heb.</p>
 
 </body>
 </html>

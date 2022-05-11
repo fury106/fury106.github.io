@@ -3,6 +3,7 @@ permalink: /beat_saber
 title: Beat Saber
 subtitle: Op deze pagina kan je mijn Beat Saber creaties vinden.
 published: false
+sitemap: false
 ---
 <html>
 <head>
