@@ -42,7 +42,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>Op deze pagina kan je binnenkort een overizcht vinden van alle pretparken waar ik al geweest ben en waar ik content van heb.</p>
 
-<p> test <a href="/belgie">België</a></p>
+<p> test <a href="/belgie">Belgie</a></p>
 
 </body>
 </html>
