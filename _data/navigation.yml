@@ -1,7 +1,7 @@
 - name: Pretparken
   link: /pretparken
   dropdown:
-	- name: België
+	- name: Belgie
 	  link: /pretparken/belgie
 - name: Over mij
   link: /about
