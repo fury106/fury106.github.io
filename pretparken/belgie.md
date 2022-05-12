@@ -1,5 +1,5 @@
 ---
-permalink: /belgie.html
+permalink: /pretparken/belgie.html
 title: Belgie
 sitemap: true
 published: true
