@@ -1,6 +1,6 @@
 ---
-permalink: /pretparken.html
-title: Pretparken
+permalink: /pretparken/belgie/bobbejaanland.html
+title: Bobbejaanland
 sitemap: true
 published: true
 ---
@@ -25,24 +25,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <noscript>Cookie Consent by <a href="https://www.freeprivacypolicy.com/" rel="nofollow noopener">Free Privacy Policy Generator website</a></noscript>
 <!-- End Cookie Consent -->
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZJGHDFE3XH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-ZJGHDFE3XH');
-</script>
 </head>
 
 <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTN7ZFS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
+<p>Op deze pagina vind je een overzicht van content van het Plezantste Land!</p>
 
-<p>Op deze pagina kan je binnenkort een overizcht vinden van alle pretparken waar ik al geweest ben en waar ik content van heb.</p>
+<p>Hieronder kan je een compilatie vinden van alle achtbanen in het park:</p>
 
-<p> Voor een overzicht van de Belgische pretparken, klik <a href="/pretparken/belgie">hier</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/of1hKUExD0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </body>
 </html>

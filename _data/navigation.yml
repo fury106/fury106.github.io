@@ -3,5 +3,8 @@
   dropdown:
     - name: Belgie
       link: /pretparken/belgie
+      dropdown:
+        - name: Bobbejaanland
+          link: /pretparken/belgie/bobbejaanland
 - name: Over mij
   link: /about
