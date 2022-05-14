@@ -33,7 +33,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<p>Bobbejaanland</p>
+<p><a href="/pretparken/belgie/bobbejaanland">Bobbejaanland</a></p>
 <p>Walibi Belgium</p>
 <p>Plopsaland De Panne</p>
 
