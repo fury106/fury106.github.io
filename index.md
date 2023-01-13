@@ -41,9 +41,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!--<p><a href="https://fury106.github.io/about">Over mij</a></p>-->
 
 
-<!--Instagram plugin-->
-<div class="embedsocial-hashtag" data-ref="b8238946825a0b199ca4dca77ec429b2c3be6536" ><a class="feed-powered-by-es" href="https://embedsocial.com/products/embedfeed/" target="_blank" title="Powered by EmbedSocial">Powered by EmbedSocial<span>→</span></a></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/cdn/ht.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialHashtagScript"));</script>
+<!--Instagram plugin -- oud-->
+<!--<div class="embedsocial-hashtag" data-ref="b8238946825a0b199ca4dca77ec429b2c3be6536" ><a class="feed-powered-by-es" href="https://embedsocial.com/products/embedfeed/" target="_blank" title="Powered by EmbedSocial">Powered by EmbedSocial<span>→</span></a></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/cdn/ht.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialHashtagScript"));</script>-->
 
+<!--Instagram plugin -- nieuw-->
+<script src="https://assets.juicer.io/embed.js" type="text/javascript"></script>
+<link href="https://assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
+<ul class="juicer-feed" data-feed-id="fury_106" data-origin="embed-code"><h1 class="referral"><a href="https://www.juicer.io">Powered by</a></h1></ul>
 
 </body>
 </html>
