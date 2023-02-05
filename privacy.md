@@ -2,6 +2,7 @@
 permalink: /privacy.html
 title: Privacy
 sitemap: false
+published: false
 ---
 
 <html>
