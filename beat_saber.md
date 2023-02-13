@@ -7,6 +7,7 @@ sitemap: false
 ---
 <html>
 <head>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="c28446f3-a71f-463a-aa45-61d022871281" data-blockingmode="auto" type="text/javascript"></script>
 <title>Beat Saber - Fury_106</title>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -32,27 +33,6 @@ sitemap: false
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxuw3IfoYxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 {% include youtube.html video="Rxuw3IfoYxs" %}
 
-
-<!--Cookies popup-->
-<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
-<script>
-window.cookieconsent.initialise({
-  "palette": {
-    "popup": {
-      "background": "#252e39"
-    },
-    "button": {
-      "background": "#14a7d0"
-    }
-  },
-  "content": {
-    "message": "Deze website maakt gebruik van cookies en scripts (zoals Google Analytics) om voor een betere ervaring te zorgen. Door onze website te gebruiken ga je akkoord met het gebruik hiervan.",
-    "dismiss": "Doorgaan",
-    "link": "Meer info",
-    "href": "https://fury106.github.io/privacy"
-  }
-});
-</script>
 
 </body>
 </html>
