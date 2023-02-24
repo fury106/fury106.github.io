@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\css",
+    "\\blog",
     "\\pretparken",
-    "\\pretparken\\belgie"
+    "\\pretparken\\belgie",
+    "\\_includes"
   ],
-  "SelectedNode": "\\pretparken\\belgie\\bobbejaanland.md",
+  "SelectedNode": "\\index.md",
   "PreviewInSolutionExplorer": false
 }
