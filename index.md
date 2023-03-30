@@ -7,9 +7,6 @@ callouts: home_callouts
 
 <html>
 <head>
-
-<meta name="google-site-verification" content="obucJlT3UdDZcoodY-icxPcy3iHnC-SRvVUTAnYKKjU" />
-
 <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="c28446f3-a71f-463a-aa45-61d022871281" data-blockingmode="auto" type="text/javascript"></script>
 
 <!-- Google Tag Manager -->
@@ -19,9 +16,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MTN7ZFS');</script>
 <!-- end of Google Tag Manager-->
-
-<!-- Google Search Console verification -->
-<meta name="google-site-verification" content="obucJlT3UdDZcoodY-icxPcy3iHnC-SRvVUTAnYKKjU" />
 
 </head>
 <body>
