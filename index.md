@@ -17,6 +17,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MTN7ZFS');</script>
 <!-- end of Google Tag Manager-->
 
+<!-- Google Search Console verification -->
+<meta name="google-site-verification" content="obucJlT3UdDZcoodY-icxPcy3iHnC-SRvVUTAnYKKjU" />
+
 </head>
 <body>
 

@@ -6,8 +6,11 @@
     "\\blog",
     "\\pretparken",
     "\\pretparken\\belgie",
-    "\\_includes"
+    "\\_includes",
+    "\\_layouts",
+    "\\_posts",
+    "\\_sass"
   ],
-  "SelectedNode": "\\privacy.md",
+  "SelectedNode": "\\blog\\index.html",
   "PreviewInSolutionExplorer": false
 }
