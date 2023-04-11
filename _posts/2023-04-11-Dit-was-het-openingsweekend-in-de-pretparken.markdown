@@ -33,7 +33,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <p>Het pretparkseizoen trap ik voor de gewoonte eens niet af in mijn thuispark Bobbejaanland, maar in Walibi Belgium. Op een grijze en natte zaterdagvoormiddag kom ik netjes op tijd aan op de parking van het park. Aangezien ik op tijd ben, heb ik nog even de tijd om de werf van Aqualibi te inspecteren. Daar wordt op dat moment aan een van de vier nieuwe spectaculaire glijbanen die eind dit jaar moeten openen.</p>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="LgR8a2i"><a href="https://imgur.com/LgR8a2i">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<center><img src="https://i.imgur.com/LgR8a2i.jpg"></center>
 
 <p>En dan is het zover: het is 10 uur en de poorten van het park gaan open. Net zoals het merendeel van de aanwezige bezoekers begeef ik mij direct naar de paradepaardje van het park: de megacoaster Kondaa. Omdat het een vrij koude ochtend was, waren de wielen nog koud en reed de achtbaan nog niet op full power, maar wat deed het goed om eindelijk terug deze achtbaan te kunnen doen. Naarmate de dag vorderde warmde de treinen steeds meer en meer op, en tegen het einde van de  dag was deze echt on fire. Wat heb ik dit gemist! Uiteindelijk heb ik die dag 19 ritten gedaan op Kondaa.</p>
 
