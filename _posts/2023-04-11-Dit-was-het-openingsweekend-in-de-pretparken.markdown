@@ -6,6 +6,7 @@ summary: "De pretparken zijn weer geopend voor een nieuw seizoen vol avonturen. 
 published: true
 comments: false
 image: https://i.imgur.com/6mfqume.jpg
+hero_image: https://i.imgur.com/6mfqume.jpg
 ---
 
 <html>
