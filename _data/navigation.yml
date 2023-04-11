@@ -1,10 +1,4 @@
-- name: Pretparken
-  link: /pretparken
-  dropdown:
-    - name: Belgie
-      link: /pretparken/belgie
-      dropdown:
-        - name: Bobbejaanland
-          link: /pretparken/belgie/bobbejaanland
+- name: BLog
+  link: /blog
 - name: Over mij
   link: /about
