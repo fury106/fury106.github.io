@@ -49,7 +49,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p style="text-align: justify">De wachtrij van Toutatis is geen klassiek ‘veehok’ zoals dat bij sommige grote attracties in sommige parken wel het geval is. De wachtrij is een mooi houten pad dat kronkelt tussen de achtbaan. Hier en daar staan ook enkele leuke stukken decoratie. Wanneer je in het station aankomt, splitst de wachtrij in drie verschillende rijen: een rij voor de eerste rij, een rij voor rij 2 t.e.m. rij 4, en tenslotte een rij voor rijen 5 t.e.m. 10. Ik beslis om de rij voor de eerste rij te nemen, en omdat deze nogal redelijk verstopt ligt, staat er amper volk in deze rij en is slechts een tweetal treinen langer wachten dan in de andere rijen. Na ongeveer 35 minuten wachten is het eindelijk tijd om in te stappen! Als je tenslotte nog weet dat het die dag vrij druk was in het park en de maximale aangegeven wachttijd 2 uur en 20 minuten bedroeg, dan denk ik wel dat het ochtendsprintje flink geloond heeft…</p>
 
 <figure class="image">
-<center><img src="https://i.imgur.com/8mJq4kB.jpg></center>
+<center><img src="https://i.imgur.com/8mJq4kB.jpg"></center>
 <figcaption>Foto © Parc Astérix</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p style="text-align: justify">Toutatis is een fantastische achtbaan en is ook een mooie toevoeging aan de collectie aan attracties in het park. Is Toutatis dan ook mijn nieuwe favoriet in het park? Dat helaas niet. Het is zoals gezegd een goede en toffe achtbaan, maar persoonlijk vind ik OzIris nog net iets beter. Als ik deze moet vergelijken met achtbanen uit andere parken, dan zou ik deze net onder Kondaa (in Walibi Belgium) plaatsen.</p>
 
 <figure class="image">
-<center><img src="https://i.imgur.com/XxL2sAE.jpg></center>
+<center><img src="https://i.imgur.com/XxL2sAE.jpg"></center>
 <figcaption>Foto © Parc Astérix</figcaption>
 </figure>
 
