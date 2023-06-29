@@ -1,8 +1,8 @@
 ---
 permalink: /pretparken/belgie/bobbejaanland.html
 title: Bobbejaanland
-sitemap: true
-published: true
+sitemap: false
+published: false
 ---
 
 <html>

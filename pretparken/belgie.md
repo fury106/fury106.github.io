@@ -1,8 +1,8 @@
 ---
 permalink: /pretparken/belgie.html
 title: Belgie
-sitemap: true
-published: true
+sitemap: false
+published: false
 ---
 
 <html>
