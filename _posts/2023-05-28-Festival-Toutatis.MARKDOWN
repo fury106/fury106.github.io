@@ -13,21 +13,18 @@ hero_image: https://i.imgur.com/98X5VWw.jpg
 <head>
 <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="c28446f3-a71f-463a-aa45-61d022871281" data-blockingmode="auto" type="text/javascript"></script>
 
-<!-- Google Tag Manager -->
-<script type="text/javascript" cookie-consent="tracking">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MTN7ZFS');</script>
-<!-- end of Google Tag Manager-->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZJGHDFE3XH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZJGHDFE3XH');
+</script>
 </head>
 
 <body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTN7ZFS"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-
 <p style="text-align: justify;"><b>In het Franse pretpark Parc Astérix is onlangs een spectaculaire achtbaan geopend: Toutatis. Reden genoeg voor een tripje richting Parijs om deze nieuwigheid eens goed te gaan uitproberen!</b></p>
 
 <p style="text-align: justify;">Parc Astérix is een Frans pretpark dat gethematiseerd is naar de verhalen van Asterix en Obelix. Het park is opgebouwd uit verschillende themagebieden en heeft een uitgebreide collectie van attracties voor het hele gezin. Het park ligt vlak boven Parijs, en aangezien het vlak naast de snelweg ligt, kan je dit park zeker niet missen.</p>
