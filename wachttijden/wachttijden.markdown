@@ -28,8 +28,8 @@ layout: page
 <p>Op dit moment is het aanbod van parken waar we de wachttijdden aanbieden nog beperkt. In de toekomst worden er nog meerdere parken aan toegevoegd.</p>
 
 <ul>
-	<li><a href="https://fury106.github.io/wachttijden/bobbejaanland", target="_blank">Bobbejaanland</a></li>
-	<li><a href="https://fury106.github.io/wachttijden/walibi_belgium", target="_blank">Walibi Belgium</a></li>
+	<li><a href="https://fury106.github.io/wachttijden/bobbejaanland" target="_blank">Bobbejaanland</a></li>
+	<li><a href="https://fury106.github.io/wachttijden/walibi_belgium" target="_blank">Walibi Belgium</a></li>
 </ul>
 
 </body>
