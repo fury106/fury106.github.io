@@ -3,6 +3,7 @@ permalink: /wachttijden.html
 title: Wachttijden
 sitemap: true
 published: true
+layout: page
 ---
 
 <html>

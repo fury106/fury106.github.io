@@ -4,6 +4,7 @@ title: Walibi Belgium
 subtitle: Hier kan je de live wachttijden van Walibi Belgium terugvinden.
 sitemap: true
 published: true
+layout: page
 ---
 
 <html>
