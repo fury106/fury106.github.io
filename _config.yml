@@ -29,7 +29,8 @@ url: "https://fury106.github.io" # the base hostname & protocol for your site, e
 github_username:  fury106
 
 # Build settings
-theme: bulma-clean-theme
+#theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
   - jekyll-feed
 
