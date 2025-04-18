@@ -26,4 +26,8 @@ try {
                 container.appendChild(rideElement);
             });
         })
+ } catch (error) {
+		console.error('Error fetching data:', error);
+		const container = document.getElementById('queue-times');
+		container.textContent = 'Er is een probleem opgetreden bij het ophalen van de wachttijden.';
  }
