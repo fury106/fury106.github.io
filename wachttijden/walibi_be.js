@@ -1,11 +1,10 @@
 // JavaScript source code
-//APi URl
+// API URL
 const apiUrl = 'https://queue-times.com/parks/6/queue_times.json'; //14
 console.log('Script geladen');
 
 // Fetch data from the API and process it
 try {
-    // Fetch data from the API
     fetch(apiUrl)
         .then(response => {
             if (!response.ok) {
@@ -14,11 +13,11 @@ try {
             return response.json();
         })
         .then(data => {
-            // collect data
+            // Collect data
             const rides = data.lands.flatMap(land => land.rides);
-            // sort data
+            // Sort data
             const sortedRides = rides.sort((a, b) => b.wait_time - a.wait_time);
-            // dyanimic add to html
+            // Dynamically add to HTML
             const container = document.getElementById('queue-times');
             sortedRides.forEach(ride => {
                 const rideElement = document.createElement('div');
@@ -26,8 +25,11 @@ try {
                 container.appendChild(rideElement);
             });
         })
-  catch (error) {
-		console.error('Error fetching data:', error);
-		const container = document.getElementById('queue-times');
-		container.textContent = 'Er is een probleem opgetreden bij het ophalen van de wachttijden.';
-}}
+        .catch(error => {
+            console.error('Error fetching data:', error);
+            const container = document.getElementById('queue-times');
+            container.textContent = 'Er is een probleem opgetreden bij het ophalen van de wachttijden.';
+        });
+} catch (error) {
+    console.error('Fout in de try-catch:', error);
+}
