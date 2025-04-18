@@ -1,5 +1,5 @@
 ---
-permalink: /wachttijden
+permalink: /wachttijden/
 title: Wachttijden
 sitemap: true
 published: true
