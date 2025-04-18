@@ -24,20 +24,21 @@ fetch(apiUrl)
             container.appendChild(rideElement);
         });
     })
-    .catch (error => {
-    console.error('Error fetching data:', error);
-    const container = document.getElementById('queue-times');
-    container.textContent = 'Er is een probleem opgetreden bij het ophalen van de wachttijden.';
-    });
-	
-fetch(apiUrl)
-    .then(response => {
-        console.log('API Response:', response);
-        if (!response.ok) {
-            throw new Error('Probleem bij het ophalen van de data');
-        }
-        return response.json();
-    })
-    .catch(error => {
-        console.error('Error:', error);
-    });
+    //.catch (error => {
+    //console.error('Error fetching data:', error);
+    //const container = document.getElementById('queue-times');
+    //container.textContent = 'Er is een probleem opgetreden bij het ophalen van de wachttijden.';
+    //});
+	;
+//fetch(apiUrl)
+//    .then(response => {
+//        console.log('API Response:', response);
+//        if (!response.ok) {
+//            throw new Error('Probleem bij het ophalen van de data');
+//        }
+//        return response.json();
+//    })
+//    .catch(error => {
+//        console.error('Error:', error);
+//    });
+//
