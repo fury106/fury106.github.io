@@ -1,6 +1,6 @@
 // JavaScript source code
 // API URL
-const apiUrl = 'https://queue-times.com/parks/6/queue_times.json'; //14
+const apiUrl = 'https://cors-anywhere.herokuapp.com/https://queue-times.com/parks/6/queue_times.json'; //14
 console.log('Script geladen');
 
 // Fetch data from the API and process it
