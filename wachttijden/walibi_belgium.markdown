@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /walibi_belgium/
 title: Walibi Belgium
 subtitle: Hier kan je de live wachttijden van Walibi Belgium terugvinden.
