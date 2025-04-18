@@ -25,7 +25,7 @@ layout: page
 
 <body>
 <div id="queue-times"></div>
-<script src="walibi_be.js"></script>
+<script src="https://fury106.github.io/wachttijden/walibi_be.js"></script>
 <p><a href="https://www.queue-times.com" target="_blank">Powered by Queue-Times.com</a></p>
 
 </body>
