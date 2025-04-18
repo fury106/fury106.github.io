@@ -1,6 +1,6 @@
 // JavaScript source code
 //APi URl
-const apiUrl = 'https://queue-times.com/parks/14/queue_times.json';
+const apiUrl = 'https://queue-times.com/parks/6/queue_times.json'; //14
 
 // Fetch data from the API and process it
 fetch(apiUrl)
