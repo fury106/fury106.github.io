@@ -1,6 +1,7 @@
 // JavaScript source code
 //APi URl
 const apiUrl = 'https://queue-times.com/parks/6/queue_times.json'; //14
+console.log('Script geladen');
 
 // Fetch data from the API and process it
 fetch(apiUrl)
@@ -27,4 +28,16 @@ fetch(apiUrl)
     console.error('Error fetching data:', error);
     const container = document.getElementById('queue-times');
     container.textContent = 'Er is een probleem opgetreden bij het ophalen van de wachttijden.';
+    });
+	
+fetch(apiUrl)
+    .then(response => {
+        console.log('API Response:', response);
+        if (!response.ok) {
+            throw new Error('Probleem bij het ophalen van de data');
+        }
+        return response.json();
+    })
+    .catch(error => {
+        console.error('Error:', error);
     });

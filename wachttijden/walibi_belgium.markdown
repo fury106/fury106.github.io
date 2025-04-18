@@ -24,8 +24,7 @@ layout: page
 </head>
 
 <body>
-<div id="queue-times">
-</div>
+<div id="queue-times"></div>
 <script src="walibi_be.js"></script>
 <p><a href="https://www.queue-times.com" target="_blank">Powered by Queue-Times.com</a></p>
 
