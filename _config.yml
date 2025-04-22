@@ -55,3 +55,7 @@ plugins:
 #   - vendor/ruby/
 
 encoding: UTF-8
+
+lang: nl
+title: Fury_106
+favicon: img/favicon.png

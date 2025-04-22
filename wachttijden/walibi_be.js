@@ -1,11 +1,11 @@
 // JavaScript source code
 // API URL
-const apiUrl = 'https://cors-anywhere.herokuapp.com/https://queue-times.com/parks/14/queue_times.json';
+const apiUrl = 'https://queue-times.com/parks/14/queue_times.json';
 console.log('Script geladen');
 
 // Fetch data from the API and process it
 try {
-    fetch(apiUrl)
+    fetch(apiUrl, { mode: 'no-cors' })
         .then(response => {
             if (!response.ok) {
                 throw new Error('Probleem bij het ophalen van de data');
