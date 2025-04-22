@@ -1,0 +1,11 @@
+- name: Home
+  link: /
+- name: Blog
+  link: /blog
+- name: Over mij
+  link: /about
+- name: Wachttijden
+  link: /wachttijden
+- name: Links
+  link: https://www.linktr.ee/Fury_106
+  target: newtab

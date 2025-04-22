@@ -1,0 +1,31 @@
+﻿
+<footer class="footer">
+    <div class="container">
+
+        {% if site.footer_menu %}
+        <div class="columns is-multiline">
+            {% for item in site.data[site.footer_menu] %}
+            <div class="column has-text-centered">
+                <div>
+                    {% if item.target == "newtab" %}
+                    <a href="{{item.link}}" target="_blank">{{item.name}}</a>
+                    {% else %}
+                    <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        <div class="content is-small has-text-centered">
+            <!--<p><a href="https://linktr.ee/Fury_106" target="_blank">links</a></p>-->
+            <p>Reminder: deze website is nog in aanbouw. Onze excuses voor eventuele fouten, bugs, ...</p>
+            <p>Alle content op deze website is copyright © 2025 Fury_106, tenzij anders vermeld.</p>
+            <p><a href="https://fury106.github.io/privacy">Cookie consent</a></p>
+            <p>Thema gebruikt voor deze website: <a href="https://github.com/chrisrhymes/bulma-clean-theme" target="_blank">Bulma Clean Theme</a> Copyright © 2018 <a href="https://www.csrhymes.com" target="_blank">chrisrhymes</a></p>
+            <p>Hosted with <a href="https://pages.github.com" target="_blank">Github Pages</a>.</p>        
+    <!--<p class="">Theme built by <a href="https://www.csrhymes.com" target="_blank">C.S. Rhymes</a></p>-->
+        </div>
+    </div>
+</footer>

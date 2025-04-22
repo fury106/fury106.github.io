@@ -1,0 +1,29 @@
+---
+permalink: /404
+title: Error 404
+---
+<html>
+<head>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="c28446f3-a71f-463a-aa45-61d022871281" data-blockingmode="auto" type="text/javascript"></script>
+<title>Error 404 - Fury_106</title>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2VNWEQRXBG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2VNWEQRXBG');
+</script>
+
+
+
+
+
+</head>
+<body>
+<h1>Error 404: Pagina niet gevonden</h1>
+<p>De pagina die je probeert te openen bestaat niet. Controleer of de spelling van de URL correct is en probeer opnieuw. Klik <a href="https://fury106.github.io/home">hier</a> om terug te gaan naar de startpagina.</p>
+
+</body>
+</html>
