@@ -26,6 +26,7 @@ fetch(apiUrl)
                 if (ride.is_open === false) {
                     statusElement.textContent = 'Gesloten';
                     statusElement.style.color = 'red'; // Alleen het woord "Gesloten" wordt rood
+                    statusElement.style.fontWeight = 'bold'; // Maak het vetgedrukt
                 } else {
                     statusElement.textContent = `${ride.wait_time} minuten`;
                 }
