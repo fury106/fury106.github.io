@@ -1,6 +1,6 @@
 // JavaScript source code
 // API URL
-const apiUrl = 'https://queue-times-api-server.onrender.com/api/wachttijden';
+const apiUrl = 'https://queue-times-api-server.onrender.com/api/wachttijden/14';
 console.log('Script geladen');
 
 // Fetch data from the API and process it
