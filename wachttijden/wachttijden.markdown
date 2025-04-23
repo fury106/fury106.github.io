@@ -23,7 +23,7 @@ layout: page
 </head>
 
 <body>
-<h1>Op deze pagina kan je de wachttijden van attracties in verschillende pretparken terugvinden. Deze wachttijden worden automatisch ge&uuml;pdatet.</h1>
+<h2>Op deze pagina kan je de wachttijden van attracties in verschillende pretparken terugvinden. Deze wachttijden worden automatisch ge&uuml;pdatet.</h2>
 
 <p>Op dit moment is het aanbod van parken waar we de wachttijdden aanbieden nog beperkt. In de toekomst worden er nog meerdere parken aan toegevoegd.</p>
 
