@@ -21,6 +21,24 @@ layout: page
   gtag('config', 'G-2VNWEQRXBG');
 </script>
 
+<style>
+    foto {
+        padding-right: 50px;
+    }
+
+    .foto-logo img {
+        float: left;
+        margin: 0px 25px 25px 0px;
+        width: 100%;
+        max-width: 500px;
+        height: auto;
+    }
+
+    .foto-logo p{
+        <!--overflow: hidden;-->
+    }
+</style> 
+
 </head>
 
 <body>
@@ -37,7 +55,12 @@ layout: page
 <li>Het resultaat verschijnt onmiddellijk.</li>
 </ol>
 
-<p><img src="/img/openridesprediction.png" alt="Screenshot OpenRidesPrediction" style="float:left;width:20%;">Op basis van de input die jij geeft, maakt de applicatie met behulp van wat complexere berekeningen een voorspelling over de kans dat een attractie open zal gaan. Klopt de berekening voor de volle honderd procent? Nee, dit kunnen we helaas niet garanderen, omdat sommige parken niet altijd een logica hanteren achter het sluiten van hun attracties wegens weersomstandigheden. We hebben er wel alles aan gedaan, deels door trial-and-error en gebaseerd op persoonlijke ervaringen, om een algoritme te ontwikkelen dat zo waarheidsgetrouw is als mogelijk, maar dit komt jammer genoeg niet altijd overeen met de realiteit &#x1F613;.</p>
+<label class="foto-logo">
+<img src="/img/openridesprediction.png" align="left">
+<!--<figure class="image is-128x128">
+    <img src="/img/openridesprediction.png">
+</figure>-->
+<p>Op basis van de input die jij geeft, maakt de applicatie met behulp van wat complexere berekeningen een voorspelling over de kans dat een attractie open zal gaan. Klopt de berekening voor de volle honderd procent? Nee, dit kunnen we helaas niet garanderen, omdat sommige parken niet altijd een logica hanteren achter het sluiten van hun attracties wegens weersomstandigheden. We hebben er wel alles aan gedaan, deels door trial-and-error en gebaseerd op persoonlijke ervaringen, om een algoritme te ontwikkelen dat zo waarheidsgetrouw is als mogelijk, maar dit komt jammer genoeg niet altijd overeen met de realiteit &#x1F613;.</p>
 
 <h3>Wat heb ik nodig om de applicatie te kunnen gebruiken?</h3>
 
