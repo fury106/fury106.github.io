@@ -37,5 +37,7 @@ callouts: home_callouts
 <link href="https://assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
 <ul class="juicer-feed" data-feed-id="fury_106" data-origin="embed-code"><h1 class="referral"><a href="https://www.juicer.io">Powered by</a></h1></ul>
 
+<p>Ben je op zoek naar meer informatie over de OpenRidesPrediction applicatie die ik ontwikkeld heb? Klik dan <a href="https://fury106.github.io/openridesprediction">hier</a> om naar de pagina van de applicatie te gaan.</p>
+
 </body>
 </html>

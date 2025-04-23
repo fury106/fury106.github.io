@@ -54,6 +54,7 @@ subtitle: Over Fury_106
 <p>Vergeet zeker ook niet om een kijkje te nemen op mijn <a href="https://linktr.ee/Fury_106" target="_blank">sociale media</a> en mij te volgen of jezelf te abonneren!</p>
 </label>
 <!--<p><a target="_blank" href="https://www.youtube.com/channel/UC188cOvp6duGUTesd5ynfnw">YouTube</a></p>-->
+<p>Verder ben ik ook de ontwikkelaar van de OpenridesPrediction applicatie. Voor meer informatie over deze applicatie kan je <a href="https://fury106.github.io/openridesprediction">hier</a> klikken.</p>
 
 <h1>Contacteer mij</h1>
 <p>Gelieve onderstaand formulier in te vullen indien je mij wil contacteren. Ik probeer om steeds zo snel mogelijk te antwoorden.</p>

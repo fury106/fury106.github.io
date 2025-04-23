@@ -28,5 +28,8 @@ layout: page
 <script src="https://fury106.github.io/wachttijden/walibi_be.js"></script>
 <p><a href="https://www.queue-times.com" target="_blank">Powered by Queue-Times.com</a></p>
 
+<p>Verschijnen er geen wachttijden en krijg je ook geen foutmelding? Geen nood, ze komen er binnen enkele seconden aan! Om deze wachttijden te kunnen tonen, maken we gebruik van een externe server die gebruik maakt van Node.js. Omdat deze server gratis gehost wordt, kan het zijn dat deze in slaapstand gaat wanneer er even geen activiteit is. Wanneer deze een nieuwe aanroep krijgt, moet deze opnieuw opstarten waardoor het even kan duren vooraleer de wachttijden verschijnen.</p>
+
+
 </body>
 </html>
