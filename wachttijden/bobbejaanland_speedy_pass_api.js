@@ -12,6 +12,10 @@ fetch(apiUrl)
 
         // Filter attracties die NIET "not_operational" zijn
         const rides = data.filter(ride => ride.state !== "not_operational");
+		
+		// Sorteer de attracties alfabetisch op naam
+        rides.sort((a, b) => a.name.localeCompare(b.name));
+		
         const container = document.getElementById('queue-times');
 
         if (rides.length === 0) {
