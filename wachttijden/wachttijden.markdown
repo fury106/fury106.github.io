@@ -30,6 +30,7 @@ layout: page
 <ul>
 	<li><a href="https://fury106.github.io/wachttijden/bobbejaanland">Bobbejaanland</a></li>
 	<li><a href="https://fury106.github.io/wachttijden/walibi_belgium">Walibi Belgium</a></li>
+	<li><a href="https://fury106.github.io/wachttijden/plopsaland">Plopsaland De Panne</a></li>
 </ul>
 
 </body>
