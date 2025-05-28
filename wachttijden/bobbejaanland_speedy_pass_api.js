@@ -10,7 +10,8 @@ fetch(apiUrl)
     .then(data => {
         console.log('Ontvangen data:', data);
 
-        const rides = data.filter(ride => ride.status !== "not_operational"); // Filter alle attracties die operationeel zijn
+        // Filter attracties die niet de status "not_operational" hebben
+        const rides = data.filter(ride => ride.status !== "not_operational");
         const container = document.getElementById('queue-times');
 
         if (rides.length === 0) {
@@ -22,12 +23,15 @@ fetch(apiUrl)
                 rideName.textContent = `${ride.name}: `;
 
                 const statusElement = document.createElement('span');
-                if (ride.isOpen === false) {
+                
+                // Controleer of de attractie gesloten is
+                const queueData = ride.queues?.[0]; // Neem de eerste wachtrijgegevens als beschikbaar
+                if (queueData?.isOpen === false) {
                     statusElement.textContent = 'Gesloten';
                     statusElement.style.color = 'red';
                     statusElement.style.fontWeight = 'bold'; // Alleen "Gesloten" wordt rood en vetgedrukt
                 } else {
-                    const waitTime = ride.queues?.waitTimeMins ?? 0; // Haal wachttijd op en rond naar beneden af
+                    const waitTime = queueData?.waitTimeMins ?? 0; // Haal wachttijd op en rond naar beneden af
                     statusElement.textContent = `${Math.floor(waitTime)} minuten`;
                 }
 
