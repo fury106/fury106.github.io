@@ -10,7 +10,7 @@ fetch(apiUrl)
     .then(data => {
         console.log('Ontvangen data:', data);
 
-        // Filter attracties die niet de status "not_operational" hebben
+        // Filter attracties die NIET "not_operational" zijn
         const rides = data.filter(ride => ride.status !== "not_operational");
         const container = document.getElementById('queue-times');
 
@@ -24,12 +24,14 @@ fetch(apiUrl)
 
                 const statusElement = document.createElement('span');
                 
-                // Controleer of de attractie gesloten is
-                const queueData = ride.queues?.[0]; // Neem de eerste wachtrijgegevens als beschikbaar
-                if (queueData?.isOpen === false) {
+                // Haal de wachtrijgegevens op
+                const queueData = ride.queues?.[0];
+
+                // Controleer of de attractie gesloten is door de status
+                if (ride.status === "closed_indefinitely" || queueData?.isOpen === false) {
                     statusElement.textContent = 'Gesloten';
                     statusElement.style.color = 'red';
-                    statusElement.style.fontWeight = 'bold'; // Alleen "Gesloten" wordt rood en vetgedrukt
+                    statusElement.style.fontWeight = 'bold'; // "Gesloten" wordt rood en vetgedrukt
                 } else {
                     const waitTime = queueData?.waitTimeMins ?? 0; // Haal wachttijd op en rond naar beneden af
                     statusElement.textContent = `${Math.floor(waitTime)} minuten`;
