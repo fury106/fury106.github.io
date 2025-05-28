@@ -11,7 +11,7 @@ fetch(apiUrl)
         console.log('Ontvangen data:', data);
 
         // Filter attracties die NIET "not_operational" zijn
-        const rides = data.filter(ride => ride.status !== "not_operational");
+        const rides = data.filter(ride => ride.state !== "not_operational");
         const container = document.getElementById('queue-times');
 
         if (rides.length === 0) {
@@ -28,7 +28,7 @@ fetch(apiUrl)
                 const queueData = ride.queues?.[0];
 
                 // Controleer of de attractie gesloten is door de status
-                if (ride.status === "closed_indefinitely" || queueData?.isOpen === false) {
+                if (ride.state === "closed_indefinitely" || queueData?.isOpen === false) {
                     statusElement.textContent = 'Gesloten';
                     statusElement.style.color = 'red';
                     statusElement.style.fontWeight = 'bold'; // "Gesloten" wordt rood en vetgedrukt
