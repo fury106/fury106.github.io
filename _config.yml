@@ -21,9 +21,7 @@
 #title: Your awesome title
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welkom op de website van Fury_106. Op deze website kan je onder meer realtime wachttijden vinden van enkele pretparken zoals bijvoorbeeld Bobbejaanland of Walibi Belgium.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fury106.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  fury106
@@ -33,6 +31,8 @@ github_username:  fury106
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.

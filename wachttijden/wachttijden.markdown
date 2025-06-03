@@ -9,6 +9,7 @@ description: "Op deze pagina kan je de wachttijden van attracties in verschillen
 
 <html>
 <head>
+{% seo %}
 <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="c28446f3-a71f-463a-aa45-61d022871281" data-blockingmode="auto" type="text/javascript"></script>
 
 <!-- Google tag (gtag.js) -->

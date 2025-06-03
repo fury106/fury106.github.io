@@ -1,6 +1,6 @@
 ---
 permalink: /wachttijden/plopsaland/
-title: Plopsaland De Panne
+title: Wachttijden Plopsaland De Panne
 subtitle: Hier kan je de live wachttijden van Plopsaland De Panne terugvinden.
 sitemap: true
 published: true
@@ -10,6 +10,7 @@ descrition: "Op deze pagina kan je live wachttijden terugvinden van Plopsaland D
 
 <html>
 <head>
+{% seo %}
 <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="c28446f3-a71f-463a-aa45-61d022871281" data-blockingmode="auto" type="text/javascript"></script>
 
 <!-- Google tag (gtag.js) -->
