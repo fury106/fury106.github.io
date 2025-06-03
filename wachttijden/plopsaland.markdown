@@ -5,6 +5,7 @@ subtitle: Hier kan je de live wachttijden van Plopsaland De Panne terugvinden.
 sitemap: true
 published: true
 layout: page
+descrition: "Op deze pagina kan je live wachttijden terugvinden van Plopsaland De Panne."
 ---
 
 <html>

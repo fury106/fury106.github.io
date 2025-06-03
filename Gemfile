@@ -34,3 +34,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "bulma-clean-theme"
 
+gem 'jekyll-seo-tag'

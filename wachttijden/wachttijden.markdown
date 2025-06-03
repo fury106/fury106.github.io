@@ -4,6 +4,7 @@ title: Wachttijden
 sitemap: true
 published: true
 layout: page
+description: "Op deze pagina kan je de wachttijden van attracties in verschillende pretparken terugvinden."
 ---
 
 <html>

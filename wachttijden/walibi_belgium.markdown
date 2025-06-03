@@ -5,6 +5,7 @@ subtitle: Hier kan je de live wachttijden van Walibi Belgium terugvinden.
 sitemap: true
 published: true
 layout: page
+descrition: "Op deze pagina kan je live wachttijden terugvinden van Walibi Belgium."
 ---
 
 <html>
