@@ -1,5 +1,5 @@
 ---
-permalink: /wachttijden/grona-lund/
+permalink: /wachttijden/grona_lund/
 title: Wachttijden Grona Lund
 subtitle: Hier kan je de live wachttijden van Grona Lund terugvinden.
 sitemap: true

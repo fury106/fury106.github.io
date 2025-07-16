@@ -26,6 +26,11 @@ descrition: "Op deze pagina kan je live wachttijden terugvinden van Liseberg."
 </head>
 
 <body>
+<label for="sort-select">Sorteer op:</label>
+<select id="sort-select">
+  <option value="name">Naam (A-Z)</option>
+  <option value="wait">Wachttijd (hoog naar laag)</option>
+</select>
 <div id="queue-times"></div>
 <script src="https://fury106.github.io/wachttijden/liseberg.js"></script>
 <p><a href="https://www.queue-times.com" target="_blank">Powered by Queue-Times.com</a></p>
