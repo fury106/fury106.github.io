@@ -26,6 +26,12 @@ descrition: "Op deze pagina kan je live wachttijden terugvinden van Bobbejaanlan
 </head>
 
 <body>
+<label for="sort-select">Sorteer op:</label>
+<select id="sort-select">
+  <option value="name">Naam (A-Z)</option>
+  <option value="wait">Wachttijd (hoog naar laag)</option>
+</select>
+<div id="queue-times"></div>
 <div id="queue-times"></div>
 <script src="https://fury106.github.io/wachttijden/bobbejaanland_speedy_pass_api.js"></script>
 <!--<p><a href="https://www.queue-times.com" target="_blank">Powered by Queue-Times.com</a></p>-->
