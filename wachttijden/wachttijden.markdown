@@ -35,6 +35,8 @@ description: "Op deze pagina kan je de wachttijden van attracties in verschillen
 	<li><a href="https://fury106.github.io/wachttijden/plopsaland">Plopsaland De Panne</a></li>
 	<li><a href="https://fury106.github.io/wachttijden/liseberg">Liseberg</a></li>
 	<li><a href="https://fury106.github.io/wachttijden/grona_lund">Grona Lund</a></li>
+	<li><a href="https://fury106.github.io/wachttijden/parque_warner_madrid">Parque Warner Madrid</a></li>
+	<li><a href="https://fury106.github.io/wachttijden/parque_atracciones_madrid">Parque de Atracciones de Madrid</a></li>
 	
 </ul>
 
